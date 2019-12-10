@@ -1,0 +1,208 @@
+2019-11-07 08:41:29.861 | INFO     | Init:Day_init:44 - 第一次进行每日初始化: 20191107
+2019-11-07 08:41:29.861 | INFO     | Init:Day_init:44 - 第一次进行每日初始化: 20191107
+2019-11-07 08:41:51.542 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-07 08:41:51.542 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-07 08:41:51.542 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-07 08:42:49.689 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-07 08:42:49.689 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-07 08:42:49.689 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-07 08:43:25.321 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 3 次密码探测
+2019-11-07 08:43:25.321 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 3 次密码探测
+2019-11-07 08:43:25.321 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 3 次密码探测
+2019-11-07 08:43:46.727 | ERROR    | before_detection:before_after_test:141 - 用户： 18915853059登陆失败，记录，等待下次测试，可能原因：超时，密码未修正
+2019-11-07 08:43:46.727 | ERROR    | before_detection:before_after_test:141 - 用户： 18915853059登陆失败，记录，等待下次测试，可能原因：超时，密码未修正
+2019-11-07 08:43:46.727 | ERROR    | before_detection:before_after_test:141 - 用户： 18915853059登陆失败，记录，等待下次测试，可能原因：超时，密码未修正
+2019-11-07 08:43:46.743 | INFO     | __main__:<module>:99 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-07 08:43:46.743 | INFO     | __main__:<module>:99 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-07 08:43:46.743 | INFO     | __main__:<module>:99 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-07 08:43:47.635 | ERROR    | __main__:<module>:157 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-07 08:43:47.635 | ERROR    | __main__:<module>:157 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-07 08:43:47.635 | ERROR    | __main__:<module>:157 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-07 08:44:08.212 | INFO     | before_detection:password_detection:43 - 用户：15251853026, 进行第 1 次密码探测
+2019-11-07 08:44:08.212 | INFO     | before_detection:password_detection:43 - 用户：15251853026, 进行第 1 次密码探测
+2019-11-07 08:44:08.212 | INFO     | before_detection:password_detection:43 - 用户：15251853026, 进行第 1 次密码探测
+2019-11-07 08:44:43.951 | INFO     | before_detection:password_detection:43 - 用户：15251853026, 进行第 2 次密码探测
+2019-11-07 08:44:43.951 | INFO     | before_detection:password_detection:43 - 用户：15251853026, 进行第 2 次密码探测
+2019-11-07 08:44:43.951 | INFO     | before_detection:password_detection:43 - 用户：15251853026, 进行第 2 次密码探测
+2019-11-07 08:45:20.990 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191107
+2019-11-07 08:45:20.990 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191107
+2019-11-07 08:45:40.661 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-07 08:45:40.661 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-07 08:45:40.661 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-07 08:46:55.921 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-07 08:46:55.921 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-07 08:46:55.921 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-07 08:47:57.564 | INFO     | before_detection:password_detection:71 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-07 08:47:57.564 | INFO     | before_detection:password_detection:71 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-07 08:47:57.564 | INFO     | before_detection:password_detection:71 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-07 08:48:00.804 | INFO     | before_detection:before_after_test:220 - 用户 18915853059, 点击进入用户页面
+2019-11-07 08:48:00.804 | INFO     | before_detection:before_after_test:220 - 用户 18915853059, 点击进入用户页面
+2019-11-07 08:48:00.804 | INFO     | before_detection:before_after_test:220 - 用户 18915853059, 点击进入用户页面
+2019-11-07 08:48:08.057 | INFO     | before_detection:before_after_test:224 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-07 08:48:08.057 | INFO     | before_detection:before_after_test:224 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-07 08:48:08.057 | INFO     | before_detection:before_after_test:224 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-07 08:48:18.301 | INFO     | before_detection:before_after_test:230 - 用户 18915853059, 点击我的成绩按钮
+2019-11-07 08:48:18.301 | INFO     | before_detection:before_after_test:230 - 用户 18915853059, 点击我的成绩按钮
+2019-11-07 08:48:18.301 | INFO     | before_detection:before_after_test:230 - 用户 18915853059, 点击我的成绩按钮
+2019-11-07 08:48:23.343 | INFO     | before_detection:before_after_test:235 - 用户: 18915853059 查询结果： 基于移动互联网用户管理的运营设计与决策虚拟仿真实验 完成 81 2019-11-06 10:24:58 2019-11-06 11:10:43 45 下载
+2019-11-07 08:48:23.343 | INFO     | before_detection:before_after_test:235 - 用户: 18915853059 查询结果： 基于移动互联网用户管理的运营设计与决策虚拟仿真实验 完成 81 2019-11-06 10:24:58 2019-11-06 11:10:43 45 下载
+2019-11-07 08:48:23.343 | INFO     | before_detection:before_after_test:235 - 用户: 18915853059 查询结果： 基于移动互联网用户管理的运营设计与决策虚拟仿真实验 完成 81 2019-11-06 10:24:58 2019-11-06 11:10:43 45 下载
+2019-11-07 08:48:23.364 | INFO     | __main__:<module>:99 - 用户: 18915853059 before_after_test执行完毕, test_code:1
+2019-11-07 08:48:23.364 | INFO     | __main__:<module>:99 - 用户: 18915853059 before_after_test执行完毕, test_code:1
+2019-11-07 08:48:23.364 | INFO     | __main__:<module>:99 - 用户: 18915853059 before_after_test执行完毕, test_code:1
+2019-11-07 08:48:24.330 | INFO     | __main__:<module>:161 - 用户 18915853059 已经测试过，结束流程
+2019-11-07 08:48:24.330 | INFO     | __main__:<module>:161 - 用户 18915853059 已经测试过，结束流程
+2019-11-07 08:48:24.330 | INFO     | __main__:<module>:161 - 用户 18915853059 已经测试过，结束流程
+2019-11-07 08:48:43.935 | INFO     | before_detection:password_detection:43 - 用户：15251853026, 进行第 1 次密码探测
+2019-11-07 08:48:43.935 | INFO     | before_detection:password_detection:43 - 用户：15251853026, 进行第 1 次密码探测
+2019-11-07 08:48:43.935 | INFO     | before_detection:password_detection:43 - 用户：15251853026, 进行第 1 次密码探测
+2019-11-07 09:45:44.885 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191107
+2019-11-07 09:45:44.885 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191107
+2019-11-07 09:48:59.071 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191107
+2019-11-07 09:48:59.071 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191107
+2019-11-07 09:51:20.774 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191107
+2019-11-07 09:51:20.774 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191107
+2019-11-07 09:57:36.668 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191107
+2019-11-07 09:57:36.668 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191107
+2019-11-07 09:59:58.832 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191107
+2019-11-07 09:59:58.832 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191107
+2019-11-07 10:07:54.339 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191107
+2019-11-07 10:07:54.339 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191107
+2019-11-07 10:10:58.354 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191107
+2019-11-07 10:10:58.354 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191107
+2019-11-07 10:11:14.903 | INFO     | before_detection:password_detection:44 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-07 10:11:14.903 | INFO     | before_detection:password_detection:44 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-07 10:11:14.903 | INFO     | before_detection:password_detection:44 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-07 10:11:57.162 | INFO     | before_detection:password_detection:44 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-07 10:11:57.162 | INFO     | before_detection:password_detection:44 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-07 10:11:57.162 | INFO     | before_detection:password_detection:44 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-07 10:12:13.220 | INFO     | __main__:<module>:111 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-07 10:12:13.220 | INFO     | __main__:<module>:111 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-07 10:12:13.220 | INFO     | __main__:<module>:111 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-07 10:15:59.980 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191107
+2019-11-07 10:15:59.980 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191107
+2019-11-07 10:16:16.172 | INFO     | before_detection:password_detection:44 - 用户：15295510730, 进行第 1 次密码探测
+2019-11-07 10:16:16.172 | INFO     | before_detection:password_detection:44 - 用户：15295510730, 进行第 1 次密码探测
+2019-11-07 10:16:16.172 | INFO     | before_detection:password_detection:44 - 用户：15295510730, 进行第 1 次密码探测
+2019-11-07 10:16:47.490 | INFO     | before_detection:password_detection:72 - 用户：15295510730 , 密码：12345678 探测成功
+2019-11-07 10:16:47.490 | INFO     | before_detection:password_detection:72 - 用户：15295510730 , 密码：12345678 探测成功
+2019-11-07 10:16:47.490 | INFO     | before_detection:password_detection:72 - 用户：15295510730 , 密码：12345678 探测成功
+2019-11-07 10:16:48.793 | INFO     | before_detection:before_after_test:221 - 用户 15295510730, 点击进入用户页面
+2019-11-07 10:16:48.793 | INFO     | before_detection:before_after_test:221 - 用户 15295510730, 点击进入用户页面
+2019-11-07 10:16:48.793 | INFO     | before_detection:before_after_test:221 - 用户 15295510730, 点击进入用户页面
+2019-11-07 10:16:51.682 | INFO     | before_detection:before_after_test:225 - 用户 15295510730, 点击左侧菜单查看成绩信息
+2019-11-07 10:16:51.682 | INFO     | before_detection:before_after_test:225 - 用户 15295510730, 点击左侧菜单查看成绩信息
+2019-11-07 10:16:51.682 | INFO     | before_detection:before_after_test:225 - 用户 15295510730, 点击左侧菜单查看成绩信息
+2019-11-07 10:16:56.688 | INFO     | before_detection:enter_detail_page:256 - 用户: 15295510730 未作仿真实验测试
+2019-11-07 10:16:56.688 | INFO     | before_detection:enter_detail_page:256 - 用户: 15295510730 未作仿真实验测试
+2019-11-07 10:16:56.688 | INFO     | before_detection:enter_detail_page:256 - 用户: 15295510730 未作仿真实验测试
+2019-11-07 10:17:47.601 | INFO     | before_detection:enter_detail_page:276 - 用户 15295510730 跳转到页面标签(实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-07 10:17:47.601 | INFO     | before_detection:enter_detail_page:276 - 用户 15295510730 跳转到页面标签(实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-07 10:17:47.601 | INFO     | before_detection:enter_detail_page:276 - 用户 15295510730 跳转到页面标签(实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-07 10:17:47.607 | INFO     | before_detection:enter_detail_page:280 - 用户 15295510730 跳转到页面标签,跳转成功 (实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-07 10:17:47.607 | INFO     | before_detection:enter_detail_page:280 - 用户 15295510730 跳转到页面标签,跳转成功 (实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-07 10:17:47.607 | INFO     | before_detection:enter_detail_page:280 - 用户 15295510730 跳转到页面标签,跳转成功 (实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-07 10:17:51.831 | INFO     | before_detection:enter_detail_page:285 - 用户：{} 跳转到试验台页面
+2019-11-07 10:17:51.831 | INFO     | before_detection:enter_detail_page:285 - 用户：{} 跳转到试验台页面
+2019-11-07 10:17:51.831 | INFO     | before_detection:enter_detail_page:285 - 用户：{} 跳转到试验台页面
+2019-11-07 10:20:19.447 | INFO     | __main__:<module>:111 - 用户: 15295510730 before_after_test执行完毕, test_code:0
+2019-11-07 10:20:19.447 | INFO     | __main__:<module>:111 - 用户: 15295510730 before_after_test执行完毕, test_code:0
+2019-11-07 10:20:19.447 | INFO     | __main__:<module>:111 - 用户: 15295510730 before_after_test执行完毕, test_code:0
+2019-11-07 10:25:25.478 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 5.100066669782003
+2019-11-07 10:25:25.478 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 5.100066669782003
+2019-11-07 10:25:25.478 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 5.100066669782003
+2019-11-07 10:28:10.195 | INFO     | write_file_png:judge_png:66 - 用户: 15295510730 , 任务进度: 学校firefox
+2019-11-07 10:28:10.195 | INFO     | write_file_png:judge_png:66 - 用户: 15295510730 , 任务进度: 学校firefox
+2019-11-07 10:28:10.195 | INFO     | write_file_png:judge_png:66 - 用户: 15295510730 , 任务进度: 学校firefox
+2019-11-07 10:28:10.221 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 7.846183331807454
+2019-11-07 10:28:10.221 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 7.846183331807454
+2019-11-07 10:28:10.221 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 7.846183331807454
+2019-11-07 10:30:54.772 | INFO     | write_file_png:judge_png:66 - 用户: 15295510730 , 任务进度: 学校firefox
+2019-11-07 10:30:54.772 | INFO     | write_file_png:judge_png:66 - 用户: 15295510730 , 任务进度: 学校firefox
+2019-11-07 10:30:54.772 | INFO     | write_file_png:judge_png:66 - 用户: 15295510730 , 任务进度: 学校firefox
+2019-11-07 10:30:54.821 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 10.589516663551331
+2019-11-07 10:30:54.821 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 10.589516663551331
+2019-11-07 10:30:54.821 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 10.589516663551331
+2019-11-07 10:33:39.368 | INFO     | write_file_png:judge_png:66 - 用户: 15295510730 , 任务进度: 学校firefox
+2019-11-07 10:33:39.368 | INFO     | write_file_png:judge_png:66 - 用户: 15295510730 , 任务进度: 学校firefox
+2019-11-07 10:33:39.368 | INFO     | write_file_png:judge_png:66 - 用户: 15295510730 , 任务进度: 学校firefox
+2019-11-07 10:33:39.371 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 13.332016666730246
+2019-11-07 10:33:39.371 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 13.332016666730246
+2019-11-07 10:33:39.371 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 13.332016666730246
+2019-11-07 10:36:23.939 | INFO     | write_file_png:judge_png:66 - 用户: 15295510730 , 任务进度: 学校firefox
+2019-11-07 10:36:23.939 | INFO     | write_file_png:judge_png:66 - 用户: 15295510730 , 任务进度: 学校firefox
+2019-11-07 10:36:23.939 | INFO     | write_file_png:judge_png:66 - 用户: 15295510730 , 任务进度: 学校firefox
+2019-11-07 10:36:23.959 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 16.075150001049042
+2019-11-07 10:36:23.959 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 16.075150001049042
+2019-11-07 10:36:23.959 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 16.075150001049042
+2019-11-07 10:39:08.431 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 18.816349999109903
+2019-11-07 10:39:08.431 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 18.816349999109903
+2019-11-07 10:39:08.431 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 18.816349999109903
+2019-11-07 10:41:53.046 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 21.559933336575828
+2019-11-07 10:41:53.046 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 21.559933336575828
+2019-11-07 10:41:53.046 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 21.559933336575828
+2019-11-07 10:44:37.403 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 24.299216667811077
+2019-11-07 10:44:37.403 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 24.299216667811077
+2019-11-07 10:44:37.403 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 24.299216667811077
+2019-11-07 10:47:21.823 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 27.039550002415975
+2019-11-07 10:47:21.823 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 27.039550002415975
+2019-11-07 10:47:21.823 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 27.039550002415975
+2019-11-07 10:50:06.349 | INFO     | write_file_png:judge_png:66 - 用户: 15295510730 , 任务进度: 学校firefox
+2019-11-07 10:50:06.349 | INFO     | write_file_png:judge_png:66 - 用户: 15295510730 , 任务进度: 学校firefox
+2019-11-07 10:50:06.349 | INFO     | write_file_png:judge_png:66 - 用户: 15295510730 , 任务进度: 学校firefox
+2019-11-07 10:50:06.363 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 29.781866669654846
+2019-11-07 10:50:06.363 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 29.781866669654846
+2019-11-07 10:50:06.363 | INFO     | __main__:<module>:131 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 29.781866669654846
+2019-11-07 10:51:29.690 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191107
+2019-11-07 10:51:29.690 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191107
+2019-11-07 10:51:51.889 | INFO     | before_detection:password_detection:44 - 用户：15295510730, 进行第 1 次密码探测
+2019-11-07 10:51:51.889 | INFO     | before_detection:password_detection:44 - 用户：15295510730, 进行第 1 次密码探测
+2019-11-07 10:51:51.889 | INFO     | before_detection:password_detection:44 - 用户：15295510730, 进行第 1 次密码探测
+2019-11-07 10:52:27.512 | INFO     | before_detection:password_detection:72 - 用户：15295510730 , 密码：12345678 探测成功
+2019-11-07 10:52:27.512 | INFO     | before_detection:password_detection:72 - 用户：15295510730 , 密码：12345678 探测成功
+2019-11-07 10:52:27.512 | INFO     | before_detection:password_detection:72 - 用户：15295510730 , 密码：12345678 探测成功
+2019-11-07 10:52:28.246 | INFO     | before_detection:before_after_test:221 - 用户 15295510730, 点击进入用户页面
+2019-11-07 10:52:28.246 | INFO     | before_detection:before_after_test:221 - 用户 15295510730, 点击进入用户页面
+2019-11-07 10:52:28.246 | INFO     | before_detection:before_after_test:221 - 用户 15295510730, 点击进入用户页面
+2019-11-07 10:52:30.643 | INFO     | before_detection:before_after_test:225 - 用户 15295510730, 点击左侧菜单查看成绩信息
+2019-11-07 10:52:30.643 | INFO     | before_detection:before_after_test:225 - 用户 15295510730, 点击左侧菜单查看成绩信息
+2019-11-07 10:52:30.643 | INFO     | before_detection:before_after_test:225 - 用户 15295510730, 点击左侧菜单查看成绩信息
+2019-11-07 10:52:40.869 | INFO     | before_detection:before_after_test:231 - 用户 15295510730, 点击我的成绩按钮
+2019-11-07 10:52:40.869 | INFO     | before_detection:before_after_test:231 - 用户 15295510730, 点击我的成绩按钮
+2019-11-07 10:52:40.869 | INFO     | before_detection:before_after_test:231 - 用户 15295510730, 点击我的成绩按钮
+2019-11-07 10:52:48.086 | INFO     | before_detection:enter_detail_page:256 - 用户: 15295510730 未作仿真实验测试
+2019-11-07 10:52:48.086 | INFO     | before_detection:enter_detail_page:256 - 用户: 15295510730 未作仿真实验测试
+2019-11-07 10:52:48.086 | INFO     | before_detection:enter_detail_page:256 - 用户: 15295510730 未作仿真实验测试
+2019-11-07 10:53:19.868 | INFO     | before_detection:enter_detail_page:276 - 用户 15295510730 跳转到页面标签(实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-07 10:53:19.868 | INFO     | before_detection:enter_detail_page:276 - 用户 15295510730 跳转到页面标签(实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-07 10:53:19.868 | INFO     | before_detection:enter_detail_page:276 - 用户 15295510730 跳转到页面标签(实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-07 10:53:19.874 | INFO     | before_detection:enter_detail_page:280 - 用户 15295510730 跳转到页面标签,跳转成功 (实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-07 10:53:19.874 | INFO     | before_detection:enter_detail_page:280 - 用户 15295510730 跳转到页面标签,跳转成功 (实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-07 10:53:19.874 | INFO     | before_detection:enter_detail_page:280 - 用户 15295510730 跳转到页面标签,跳转成功 (实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-07 10:53:24.098 | INFO     | before_detection:enter_detail_page:285 - 用户：{} 跳转到试验台页面
+2019-11-07 10:53:24.098 | INFO     | before_detection:enter_detail_page:285 - 用户：{} 跳转到试验台页面
+2019-11-07 10:53:24.098 | INFO     | before_detection:enter_detail_page:285 - 用户：{} 跳转到试验台页面
+2019-11-07 10:54:47.142 | INFO     | __main__:<module>:122 - 用户: 15295510730 before_after_test执行完毕, test_code:0
+2019-11-07 10:54:47.142 | INFO     | __main__:<module>:122 - 用户: 15295510730 before_after_test执行完毕, test_code:0
+2019-11-07 10:54:47.142 | INFO     | __main__:<module>:122 - 用户: 15295510730 before_after_test执行完毕, test_code:0
+2019-11-07 11:00:35.025 | INFO     | __main__:<module>:142 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 5.08964999516805
+2019-11-07 11:00:35.025 | INFO     | __main__:<module>:142 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 5.08964999516805
+2019-11-07 11:00:35.025 | INFO     | __main__:<module>:142 - 用户 15295510730, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 5.08964999516805
+2019-11-07 11:03:19.658 | INFO     | write_file_png:judge_png:66 - 用户: 15295510730 , 任务进度: 学校firefox
+2019-11-07 11:03:19.658 | INFO     | write_file_png:judge_png:66 - 用户: 15295510730 , 任务进度: 学校firefox
+2019-11-07 11:03:19.658 | INFO     | write_file_png:judge_png:66 - 用户: 15295510730 , 任务进度: 学校firefox
+2019-11-07 11:03:19.780 | INFO     | __main__:<module>:135 - 用户 15295510730, 试验台页面-----实验加载完成
+2019-11-07 11:03:19.780 | INFO     | __main__:<module>:135 - 用户 15295510730, 试验台页面-----实验加载完成
+2019-11-07 11:03:19.780 | INFO     | __main__:<module>:135 - 用户 15295510730, 试验台页面-----实验加载完成
+2019-11-07 11:16:29.112 | INFO     | __main__:<module>:154 - 用户 15295510730 资源配置模块完成
+2019-11-07 11:16:29.112 | INFO     | __main__:<module>:154 - 用户 15295510730 资源配置模块完成
+2019-11-07 11:16:29.112 | INFO     | __main__:<module>:154 - 用户 15295510730 资源配置模块完成
+2019-11-07 11:29:35.957 | INFO     | __main__:<module>:156 - 用户 15295510730 业务设计模块完成
+2019-11-07 11:29:35.957 | INFO     | __main__:<module>:156 - 用户 15295510730 业务设计模块完成
+2019-11-07 11:29:35.957 | INFO     | __main__:<module>:156 - 用户 15295510730 业务设计模块完成
+2019-11-07 11:35:48.187 | INFO     | __main__:<module>:158 - 用户 15295510730 市场推广模块完成
+2019-11-07 11:35:48.187 | INFO     | __main__:<module>:158 - 用户 15295510730 市场推广模块完成
+2019-11-07 11:35:48.187 | INFO     | __main__:<module>:158 - 用户 15295510730 市场推广模块完成
+2019-11-07 11:40:18.982 | INFO     | __main__:<module>:160 - 用户 15295510730 损益测算模块完成
+2019-11-07 11:40:18.982 | INFO     | __main__:<module>:160 - 用户 15295510730 损益测算模块完成
+2019-11-07 11:40:18.982 | INFO     | __main__:<module>:160 - 用户 15295510730 损益测算模块完成

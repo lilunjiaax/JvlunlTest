@@ -1,0 +1,362 @@
+2019-11-06 08:26:22.695 | INFO     | Init:Day_init:44 - 第一次进行每日初始化: 20191106
+2019-11-06 08:26:22.695 | INFO     | Init:Day_init:44 - 第一次进行每日初始化: 20191106
+2019-11-06 08:28:37.258 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:28:37.258 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:28:37.258 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:28:54.703 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 08:28:54.703 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 08:28:54.703 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 08:31:14.650 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 08:31:14.650 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 08:33:48.106 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 08:33:48.106 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 08:34:06.714 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:34:06.714 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:34:06.714 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:34:27.536 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 08:34:27.536 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 08:34:27.536 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 08:34:31.948 | ERROR    | __main__:<module>:137 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:34:31.948 | ERROR    | __main__:<module>:137 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:34:31.948 | ERROR    | __main__:<module>:137 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:34:50.002 | INFO     | before_detection:password_detection:41 - 用户：15251853026, 进行第 1 次密码探测
+2019-11-06 08:34:50.002 | INFO     | before_detection:password_detection:41 - 用户：15251853026, 进行第 1 次密码探测
+2019-11-06 08:34:50.002 | INFO     | before_detection:password_detection:41 - 用户：15251853026, 进行第 1 次密码探测
+2019-11-06 08:35:07.691 | INFO     | before_detection:password_detection:70 - 用户：15251853026 , 密码：12345678 探测成功
+2019-11-06 08:35:07.691 | INFO     | before_detection:password_detection:70 - 用户：15251853026 , 密码：12345678 探测成功
+2019-11-06 08:35:07.691 | INFO     | before_detection:password_detection:70 - 用户：15251853026 , 密码：12345678 探测成功
+2019-11-06 08:35:08.254 | INFO     | before_detection:before_after_test:218 - 用户 15251853026, 点击进入用户页面
+2019-11-06 08:35:08.254 | INFO     | before_detection:before_after_test:218 - 用户 15251853026, 点击进入用户页面
+2019-11-06 08:35:08.254 | INFO     | before_detection:before_after_test:218 - 用户 15251853026, 点击进入用户页面
+2019-11-06 08:35:10.747 | INFO     | before_detection:before_after_test:222 - 用户 15251853026, 点击左侧菜单查看成绩信息
+2019-11-06 08:35:10.747 | INFO     | before_detection:before_after_test:222 - 用户 15251853026, 点击左侧菜单查看成绩信息
+2019-11-06 08:35:10.747 | INFO     | before_detection:before_after_test:222 - 用户 15251853026, 点击左侧菜单查看成绩信息
+2019-11-06 08:35:20.866 | INFO     | before_detection:before_after_test:228 - 用户 15251853026, 点击我的成绩按钮
+2019-11-06 08:35:20.866 | INFO     | before_detection:before_after_test:228 - 用户 15251853026, 点击我的成绩按钮
+2019-11-06 08:35:20.866 | INFO     | before_detection:before_after_test:228 - 用户 15251853026, 点击我的成绩按钮
+2019-11-06 08:35:25.936 | INFO     | __main__:<module>:71 - 用户: 15251853026 before_after_test执行完毕, test_code:-1
+2019-11-06 08:35:25.936 | INFO     | __main__:<module>:71 - 用户: 15251853026 before_after_test执行完毕, test_code:-1
+2019-11-06 08:35:25.936 | INFO     | __main__:<module>:71 - 用户: 15251853026 before_after_test执行完毕, test_code:-1
+2019-11-06 08:35:30.363 | ERROR    | __main__:<module>:137 - 用户 15251853026 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:35:30.363 | ERROR    | __main__:<module>:137 - 用户 15251853026 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:35:30.363 | ERROR    | __main__:<module>:137 - 用户 15251853026 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:37:23.548 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 08:37:23.548 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 08:37:42.621 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:37:42.621 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:37:42.621 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:38:51.273 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 08:38:51.273 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 08:38:51.273 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 08:39:59.222 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 08:39:59.222 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 08:40:18.365 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:40:18.365 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:40:18.365 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:40:36.036 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 08:40:36.036 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 08:40:36.036 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 08:40:40.435 | ERROR    | __main__:<module>:137 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:40:40.435 | ERROR    | __main__:<module>:137 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:40:40.435 | ERROR    | __main__:<module>:137 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:40:59.591 | INFO     | before_detection:password_detection:41 - 用户：15251853026, 进行第 1 次密码探测
+2019-11-06 08:40:59.591 | INFO     | before_detection:password_detection:41 - 用户：15251853026, 进行第 1 次密码探测
+2019-11-06 08:40:59.591 | INFO     | before_detection:password_detection:41 - 用户：15251853026, 进行第 1 次密码探测
+2019-11-06 08:41:17.103 | INFO     | before_detection:password_detection:70 - 用户：15251853026 , 密码：12345678 探测成功
+2019-11-06 08:41:17.103 | INFO     | before_detection:password_detection:70 - 用户：15251853026 , 密码：12345678 探测成功
+2019-11-06 08:41:17.103 | INFO     | before_detection:password_detection:70 - 用户：15251853026 , 密码：12345678 探测成功
+2019-11-06 08:41:17.890 | INFO     | before_detection:before_after_test:218 - 用户 15251853026, 点击进入用户页面
+2019-11-06 08:41:17.890 | INFO     | before_detection:before_after_test:218 - 用户 15251853026, 点击进入用户页面
+2019-11-06 08:41:17.890 | INFO     | before_detection:before_after_test:218 - 用户 15251853026, 点击进入用户页面
+2019-11-06 08:41:20.340 | INFO     | before_detection:before_after_test:222 - 用户 15251853026, 点击左侧菜单查看成绩信息
+2019-11-06 08:41:20.340 | INFO     | before_detection:before_after_test:222 - 用户 15251853026, 点击左侧菜单查看成绩信息
+2019-11-06 08:41:20.340 | INFO     | before_detection:before_after_test:222 - 用户 15251853026, 点击左侧菜单查看成绩信息
+2019-11-06 08:41:30.429 | INFO     | before_detection:before_after_test:228 - 用户 15251853026, 点击我的成绩按钮
+2019-11-06 08:41:30.429 | INFO     | before_detection:before_after_test:228 - 用户 15251853026, 点击我的成绩按钮
+2019-11-06 08:41:30.429 | INFO     | before_detection:before_after_test:228 - 用户 15251853026, 点击我的成绩按钮
+2019-11-06 08:41:35.480 | INFO     | before_detection:before_after_test:233 - 用户: 15251853026 查询结果： 基于移动互联网用户管理的运营设计与决策虚拟仿真实验 完成 77 2019-11-02 10:06:44 2019-11-02 10:55:59 49 下载
+2019-11-06 08:41:35.480 | INFO     | before_detection:before_after_test:233 - 用户: 15251853026 查询结果： 基于移动互联网用户管理的运营设计与决策虚拟仿真实验 完成 77 2019-11-02 10:06:44 2019-11-02 10:55:59 49 下载
+2019-11-06 08:41:35.480 | INFO     | before_detection:before_after_test:233 - 用户: 15251853026 查询结果： 基于移动互联网用户管理的运营设计与决策虚拟仿真实验 完成 77 2019-11-02 10:06:44 2019-11-02 10:55:59 49 下载
+2019-11-06 08:41:35.496 | INFO     | __main__:<module>:71 - 用户: 15251853026 before_after_test执行完毕, test_code:1
+2019-11-06 08:41:35.496 | INFO     | __main__:<module>:71 - 用户: 15251853026 before_after_test执行完毕, test_code:1
+2019-11-06 08:41:35.496 | INFO     | __main__:<module>:71 - 用户: 15251853026 before_after_test执行完毕, test_code:1
+2019-11-06 08:41:39.812 | ERROR    | __main__:<module>:141 - 用户 15251853026 已经测试过，结束流程
+2019-11-06 08:41:39.812 | ERROR    | __main__:<module>:141 - 用户 15251853026 已经测试过，结束流程
+2019-11-06 08:41:39.812 | ERROR    | __main__:<module>:141 - 用户 15251853026 已经测试过，结束流程
+2019-11-06 08:44:46.562 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 08:44:46.562 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 08:45:05.541 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:45:05.541 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:45:05.541 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:45:33.991 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 08:45:33.991 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 08:45:33.991 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 08:45:51.550 | INFO     | before_detection:password_detection:70 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-06 08:45:51.550 | INFO     | before_detection:password_detection:70 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-06 08:45:51.550 | INFO     | before_detection:password_detection:70 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-06 08:45:52.074 | INFO     | before_detection:before_after_test:218 - 用户 18915853059, 点击进入用户页面
+2019-11-06 08:45:52.074 | INFO     | before_detection:before_after_test:218 - 用户 18915853059, 点击进入用户页面
+2019-11-06 08:45:52.074 | INFO     | before_detection:before_after_test:218 - 用户 18915853059, 点击进入用户页面
+2019-11-06 08:45:54.669 | INFO     | before_detection:before_after_test:222 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-06 08:45:54.669 | INFO     | before_detection:before_after_test:222 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-06 08:45:54.669 | INFO     | before_detection:before_after_test:222 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-06 08:46:04.769 | INFO     | before_detection:before_after_test:228 - 用户 18915853059, 点击我的成绩按钮
+2019-11-06 08:46:04.769 | INFO     | before_detection:before_after_test:228 - 用户 18915853059, 点击我的成绩按钮
+2019-11-06 08:46:04.769 | INFO     | before_detection:before_after_test:228 - 用户 18915853059, 点击我的成绩按钮
+2019-11-06 08:46:11.856 | INFO     | before_detection:enter_detail_page:253 - 用户: 18915853059 未作仿真实验测试
+2019-11-06 08:46:11.856 | INFO     | before_detection:enter_detail_page:253 - 用户: 18915853059 未作仿真实验测试
+2019-11-06 08:46:11.856 | INFO     | before_detection:enter_detail_page:253 - 用户: 18915853059 未作仿真实验测试
+2019-11-06 08:46:17.107 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 08:46:17.107 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 08:46:17.107 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 08:46:17.222 | ERROR    | __main__:<module>:137 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:46:17.222 | ERROR    | __main__:<module>:137 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:46:17.222 | ERROR    | __main__:<module>:137 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:49:29.612 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 08:49:29.612 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 08:49:48.298 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:49:48.298 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:49:48.298 | INFO     | before_detection:password_detection:41 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:50:39.837 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 08:50:39.837 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 08:50:39.837 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 08:50:39.911 | ERROR    | __main__:<module>:137 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:50:39.911 | ERROR    | __main__:<module>:137 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:50:39.911 | ERROR    | __main__:<module>:137 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:52:48.235 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 08:52:48.235 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 08:53:06.977 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:53:06.977 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:53:06.977 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:53:39.958 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 08:53:39.958 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 08:53:39.958 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 08:54:02.518 | INFO     | before_detection:password_detection:72 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-06 08:54:02.518 | INFO     | before_detection:password_detection:72 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-06 08:54:02.518 | INFO     | before_detection:password_detection:72 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-06 08:54:03.097 | INFO     | before_detection:before_after_test:220 - 用户 18915853059, 点击进入用户页面
+2019-11-06 08:54:03.097 | INFO     | before_detection:before_after_test:220 - 用户 18915853059, 点击进入用户页面
+2019-11-06 08:54:03.097 | INFO     | before_detection:before_after_test:220 - 用户 18915853059, 点击进入用户页面
+2019-11-06 08:54:05.546 | INFO     | before_detection:before_after_test:224 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-06 08:54:05.546 | INFO     | before_detection:before_after_test:224 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-06 08:54:05.546 | INFO     | before_detection:before_after_test:224 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-06 08:54:15.643 | INFO     | before_detection:before_after_test:230 - 用户 18915853059, 点击我的成绩按钮
+2019-11-06 08:54:15.643 | INFO     | before_detection:before_after_test:230 - 用户 18915853059, 点击我的成绩按钮
+2019-11-06 08:54:15.643 | INFO     | before_detection:before_after_test:230 - 用户 18915853059, 点击我的成绩按钮
+2019-11-06 08:54:22.729 | INFO     | before_detection:enter_detail_page:255 - 用户: 18915853059 未作仿真实验测试
+2019-11-06 08:54:22.729 | INFO     | before_detection:enter_detail_page:255 - 用户: 18915853059 未作仿真实验测试
+2019-11-06 08:54:22.729 | INFO     | before_detection:enter_detail_page:255 - 用户: 18915853059 未作仿真实验测试
+2019-11-06 08:54:36.117 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 08:54:36.117 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 08:54:36.117 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 08:54:40.200 | ERROR    | __main__:<module>:137 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:54:40.200 | ERROR    | __main__:<module>:137 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:54:40.200 | ERROR    | __main__:<module>:137 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:56:26.439 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 08:56:26.439 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 08:56:44.988 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:56:44.988 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:56:44.988 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:57:18.546 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 08:57:18.546 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 08:57:18.546 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 08:57:41.479 | INFO     | before_detection:password_detection:72 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-06 08:57:41.479 | INFO     | before_detection:password_detection:72 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-06 08:57:41.479 | INFO     | before_detection:password_detection:72 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-06 08:57:42.182 | INFO     | before_detection:before_after_test:220 - 用户 18915853059, 点击进入用户页面
+2019-11-06 08:57:42.182 | INFO     | before_detection:before_after_test:220 - 用户 18915853059, 点击进入用户页面
+2019-11-06 08:57:42.182 | INFO     | before_detection:before_after_test:220 - 用户 18915853059, 点击进入用户页面
+2019-11-06 08:57:44.669 | INFO     | before_detection:before_after_test:224 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-06 08:57:44.669 | INFO     | before_detection:before_after_test:224 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-06 08:57:44.669 | INFO     | before_detection:before_after_test:224 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-06 08:57:54.787 | INFO     | before_detection:before_after_test:230 - 用户 18915853059, 点击我的成绩按钮
+2019-11-06 08:57:54.787 | INFO     | before_detection:before_after_test:230 - 用户 18915853059, 点击我的成绩按钮
+2019-11-06 08:57:54.787 | INFO     | before_detection:before_after_test:230 - 用户 18915853059, 点击我的成绩按钮
+2019-11-06 08:58:01.886 | INFO     | before_detection:enter_detail_page:255 - 用户: 18915853059 未作仿真实验测试
+2019-11-06 08:58:01.886 | INFO     | before_detection:enter_detail_page:255 - 用户: 18915853059 未作仿真实验测试
+2019-11-06 08:58:01.886 | INFO     | before_detection:enter_detail_page:255 - 用户: 18915853059 未作仿真实验测试
+2019-11-06 08:58:17.252 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 08:58:17.252 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 08:58:17.252 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 08:58:21.426 | ERROR    | __main__:<module>:137 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:58:21.426 | ERROR    | __main__:<module>:137 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:58:21.426 | ERROR    | __main__:<module>:137 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 08:59:34.268 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 08:59:34.268 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 08:59:53.249 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:59:53.249 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 08:59:53.249 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 09:00:26.529 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 09:00:26.529 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 09:00:26.529 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 09:01:10.558 | INFO     | before_detection:password_detection:72 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-06 09:01:10.558 | INFO     | before_detection:password_detection:72 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-06 09:01:10.558 | INFO     | before_detection:password_detection:72 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-06 09:01:11.083 | INFO     | before_detection:before_after_test:220 - 用户 18915853059, 点击进入用户页面
+2019-11-06 09:01:11.083 | INFO     | before_detection:before_after_test:220 - 用户 18915853059, 点击进入用户页面
+2019-11-06 09:01:11.083 | INFO     | before_detection:before_after_test:220 - 用户 18915853059, 点击进入用户页面
+2019-11-06 09:01:13.682 | INFO     | before_detection:before_after_test:224 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-06 09:01:13.682 | INFO     | before_detection:before_after_test:224 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-06 09:01:13.682 | INFO     | before_detection:before_after_test:224 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-06 09:01:23.803 | INFO     | before_detection:before_after_test:230 - 用户 18915853059, 点击我的成绩按钮
+2019-11-06 09:01:23.803 | INFO     | before_detection:before_after_test:230 - 用户 18915853059, 点击我的成绩按钮
+2019-11-06 09:01:23.803 | INFO     | before_detection:before_after_test:230 - 用户 18915853059, 点击我的成绩按钮
+2019-11-06 09:01:30.886 | INFO     | before_detection:enter_detail_page:255 - 用户: 18915853059 未作仿真实验测试
+2019-11-06 09:01:30.886 | INFO     | before_detection:enter_detail_page:255 - 用户: 18915853059 未作仿真实验测试
+2019-11-06 09:01:30.886 | INFO     | before_detection:enter_detail_page:255 - 用户: 18915853059 未作仿真实验测试
+2019-11-06 09:02:06.318 | INFO     | before_detection:enter_detail_page:275 - 用户 18915853059 跳转到页面标签(实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-06 09:02:06.318 | INFO     | before_detection:enter_detail_page:275 - 用户 18915853059 跳转到页面标签(实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-06 09:02:06.318 | INFO     | before_detection:enter_detail_page:275 - 用户 18915853059 跳转到页面标签(实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-06 09:02:06.331 | INFO     | before_detection:enter_detail_page:279 - 用户 18915853059 跳转到页面标签,跳转成功 (实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-06 09:02:06.331 | INFO     | before_detection:enter_detail_page:279 - 用户 18915853059 跳转到页面标签,跳转成功 (实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-06 09:02:06.331 | INFO     | before_detection:enter_detail_page:279 - 用户 18915853059 跳转到页面标签,跳转成功 (实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-06 09:02:10.525 | INFO     | before_detection:enter_detail_page:284 - 用户：{} 跳转到试验台页面
+2019-11-06 09:02:10.525 | INFO     | before_detection:enter_detail_page:284 - 用户：{} 跳转到试验台页面
+2019-11-06 09:02:10.525 | INFO     | before_detection:enter_detail_page:284 - 用户：{} 跳转到试验台页面
+2019-11-06 09:03:21.818 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:0
+2019-11-06 09:03:21.818 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:0
+2019-11-06 09:03:21.818 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:0
+2019-11-06 09:06:42.894 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 09:06:42.894 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 09:07:01.928 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 09:07:01.928 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 09:07:01.928 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 09:07:54.291 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 09:07:54.291 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 09:07:54.291 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 09:08:16.804 | INFO     | before_detection:password_detection:72 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-06 09:08:16.804 | INFO     | before_detection:password_detection:72 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-06 09:08:16.804 | INFO     | before_detection:password_detection:72 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-06 09:08:17.548 | INFO     | before_detection:before_after_test:220 - 用户 18915853059, 点击进入用户页面
+2019-11-06 09:08:17.548 | INFO     | before_detection:before_after_test:220 - 用户 18915853059, 点击进入用户页面
+2019-11-06 09:08:17.548 | INFO     | before_detection:before_after_test:220 - 用户 18915853059, 点击进入用户页面
+2019-11-06 09:08:20.498 | INFO     | before_detection:before_after_test:224 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-06 09:08:20.498 | INFO     | before_detection:before_after_test:224 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-06 09:08:20.498 | INFO     | before_detection:before_after_test:224 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-06 09:08:30.591 | INFO     | before_detection:before_after_test:230 - 用户 18915853059, 点击我的成绩按钮
+2019-11-06 09:08:30.591 | INFO     | before_detection:before_after_test:230 - 用户 18915853059, 点击我的成绩按钮
+2019-11-06 09:08:30.591 | INFO     | before_detection:before_after_test:230 - 用户 18915853059, 点击我的成绩按钮
+2019-11-06 09:08:37.679 | INFO     | before_detection:enter_detail_page:255 - 用户: 18915853059 未作仿真实验测试
+2019-11-06 09:08:37.679 | INFO     | before_detection:enter_detail_page:255 - 用户: 18915853059 未作仿真实验测试
+2019-11-06 09:08:37.679 | INFO     | before_detection:enter_detail_page:255 - 用户: 18915853059 未作仿真实验测试
+2019-11-06 09:09:13.606 | INFO     | before_detection:enter_detail_page:275 - 用户 18915853059 跳转到页面标签(实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-06 09:09:13.606 | INFO     | before_detection:enter_detail_page:275 - 用户 18915853059 跳转到页面标签(实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-06 09:09:13.606 | INFO     | before_detection:enter_detail_page:275 - 用户 18915853059 跳转到页面标签(实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-06 09:09:13.619 | INFO     | before_detection:enter_detail_page:279 - 用户 18915853059 跳转到页面标签,跳转成功 (实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-06 09:09:13.619 | INFO     | before_detection:enter_detail_page:279 - 用户 18915853059 跳转到页面标签,跳转成功 (实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-06 09:09:13.619 | INFO     | before_detection:enter_detail_page:279 - 用户 18915853059 跳转到页面标签,跳转成功 (实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-06 09:09:17.827 | INFO     | before_detection:enter_detail_page:284 - 用户：{} 跳转到试验台页面
+2019-11-06 09:09:17.827 | INFO     | before_detection:enter_detail_page:284 - 用户：{} 跳转到试验台页面
+2019-11-06 09:09:17.827 | INFO     | before_detection:enter_detail_page:284 - 用户：{} 跳转到试验台页面
+2019-11-06 09:10:28.989 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:0
+2019-11-06 09:10:28.989 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:0
+2019-11-06 09:10:28.989 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:0
+2019-11-06 09:16:17.614 | INFO     | write_file_png:judge_png:66 - 用户: 18915853059 , 任务进度: 开始页面
+2019-11-06 09:16:17.614 | INFO     | write_file_png:judge_png:66 - 用户: 18915853059 , 任务进度: 开始页面
+2019-11-06 09:16:17.614 | INFO     | write_file_png:judge_png:66 - 用户: 18915853059 , 任务进度: 开始页面
+2019-11-06 09:16:17.643 | INFO     | __main__:<module>:92 - 用户 18915853059, 试验台页面-----实验加载完成
+2019-11-06 09:16:17.643 | INFO     | __main__:<module>:92 - 用户 18915853059, 试验台页面-----实验加载完成
+2019-11-06 09:16:17.643 | INFO     | __main__:<module>:92 - 用户 18915853059, 试验台页面-----实验加载完成
+2019-11-06 09:29:10.338 | INFO     | __main__:<module>:114 - 用户 18915853059 资源配置模块完成
+2019-11-06 09:29:10.338 | INFO     | __main__:<module>:114 - 用户 18915853059 资源配置模块完成
+2019-11-06 09:29:10.338 | INFO     | __main__:<module>:114 - 用户 18915853059 资源配置模块完成
+2019-11-06 09:42:18.916 | INFO     | __main__:<module>:116 - 用户 18915853059 业务设计模块完成
+2019-11-06 09:42:18.916 | INFO     | __main__:<module>:116 - 用户 18915853059 业务设计模块完成
+2019-11-06 09:42:18.916 | INFO     | __main__:<module>:116 - 用户 18915853059 业务设计模块完成
+2019-11-06 09:48:17.902 | INFO     | __main__:<module>:118 - 用户 18915853059 市场推广模块完成
+2019-11-06 09:48:17.902 | INFO     | __main__:<module>:118 - 用户 18915853059 市场推广模块完成
+2019-11-06 09:48:17.902 | INFO     | __main__:<module>:118 - 用户 18915853059 市场推广模块完成
+2019-11-06 09:52:49.245 | INFO     | __main__:<module>:120 - 用户 18915853059 损益测算模块完成
+2019-11-06 09:52:49.245 | INFO     | __main__:<module>:120 - 用户 18915853059 损益测算模块完成
+2019-11-06 09:52:49.245 | INFO     | __main__:<module>:120 - 用户 18915853059 损益测算模块完成
+2019-11-06 10:21:08.102 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 10:21:08.102 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 10:21:26.953 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 10:21:26.953 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 10:21:26.953 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 10:22:01.725 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 10:22:01.725 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 10:22:01.725 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 2 次密码探测
+2019-11-06 10:22:24.261 | INFO     | before_detection:password_detection:72 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-06 10:22:24.261 | INFO     | before_detection:password_detection:72 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-06 10:22:24.261 | INFO     | before_detection:password_detection:72 - 用户：18915853059 , 密码：Njupt123 探测成功
+2019-11-06 10:22:24.956 | INFO     | before_detection:before_after_test:220 - 用户 18915853059, 点击进入用户页面
+2019-11-06 10:22:24.956 | INFO     | before_detection:before_after_test:220 - 用户 18915853059, 点击进入用户页面
+2019-11-06 10:22:24.956 | INFO     | before_detection:before_after_test:220 - 用户 18915853059, 点击进入用户页面
+2019-11-06 10:22:27.640 | INFO     | before_detection:before_after_test:224 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-06 10:22:27.640 | INFO     | before_detection:before_after_test:224 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-06 10:22:27.640 | INFO     | before_detection:before_after_test:224 - 用户 18915853059, 点击左侧菜单查看成绩信息
+2019-11-06 10:22:37.731 | INFO     | before_detection:before_after_test:230 - 用户 18915853059, 点击我的成绩按钮
+2019-11-06 10:22:37.731 | INFO     | before_detection:before_after_test:230 - 用户 18915853059, 点击我的成绩按钮
+2019-11-06 10:22:37.731 | INFO     | before_detection:before_after_test:230 - 用户 18915853059, 点击我的成绩按钮
+2019-11-06 10:22:44.818 | INFO     | before_detection:enter_detail_page:255 - 用户: 18915853059 未作仿真实验测试
+2019-11-06 10:22:44.818 | INFO     | before_detection:enter_detail_page:255 - 用户: 18915853059 未作仿真实验测试
+2019-11-06 10:22:44.818 | INFO     | before_detection:enter_detail_page:255 - 用户: 18915853059 未作仿真实验测试
+2019-11-06 10:23:18.730 | INFO     | before_detection:enter_detail_page:275 - 用户 18915853059 跳转到页面标签(实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-06 10:23:18.730 | INFO     | before_detection:enter_detail_page:275 - 用户 18915853059 跳转到页面标签(实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-06 10:23:18.730 | INFO     | before_detection:enter_detail_page:275 - 用户 18915853059 跳转到页面标签(实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-06 10:23:18.744 | INFO     | before_detection:enter_detail_page:279 - 用户 18915853059 跳转到页面标签,跳转成功 (实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-06 10:23:18.744 | INFO     | before_detection:enter_detail_page:279 - 用户 18915853059 跳转到页面标签,跳转成功 (实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-06 10:23:18.744 | INFO     | before_detection:enter_detail_page:279 - 用户 18915853059 跳转到页面标签,跳转成功 (实验评价页面) http://www.ilab-x.com/details/v5?id=4160&isView=true 
+2019-11-06 10:23:22.952 | INFO     | before_detection:enter_detail_page:284 - 用户：{} 跳转到试验台页面
+2019-11-06 10:23:22.952 | INFO     | before_detection:enter_detail_page:284 - 用户：{} 跳转到试验台页面
+2019-11-06 10:23:22.952 | INFO     | before_detection:enter_detail_page:284 - 用户：{} 跳转到试验台页面
+2019-11-06 10:24:34.306 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:0
+2019-11-06 10:24:34.306 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:0
+2019-11-06 10:24:34.306 | INFO     | __main__:<module>:71 - 用户: 18915853059 before_after_test执行完毕, test_code:0
+2019-11-06 10:30:24.844 | INFO     | __main__:<module>:105 - 用户 18915853059, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 5.078502519925435
+2019-11-06 10:30:24.844 | INFO     | __main__:<module>:105 - 用户 18915853059, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 5.078502519925435
+2019-11-06 10:30:24.844 | INFO     | __main__:<module>:105 - 用户 18915853059, 试验台页面-----校验实验加载进度，第 1 校验, 耗时总时间： 5.078502519925435
+2019-11-06 10:33:09.426 | INFO     | write_file_png:judge_png:66 - 用户: 18915853059 , 任务进度: 开始页面
+2019-11-06 10:33:09.426 | INFO     | write_file_png:judge_png:66 - 用户: 18915853059 , 任务进度: 开始页面
+2019-11-06 10:33:09.426 | INFO     | write_file_png:judge_png:66 - 用户: 18915853059 , 任务进度: 开始页面
+2019-11-06 10:33:09.432 | INFO     | __main__:<module>:92 - 用户 18915853059, 试验台页面-----实验加载完成
+2019-11-06 10:33:09.432 | INFO     | __main__:<module>:92 - 用户 18915853059, 试验台页面-----实验加载完成
+2019-11-06 10:33:09.432 | INFO     | __main__:<module>:92 - 用户 18915853059, 试验台页面-----实验加载完成
+2019-11-06 10:46:02.209 | INFO     | __main__:<module>:114 - 用户 18915853059 资源配置模块完成
+2019-11-06 10:46:02.209 | INFO     | __main__:<module>:114 - 用户 18915853059 资源配置模块完成
+2019-11-06 10:46:02.209 | INFO     | __main__:<module>:114 - 用户 18915853059 资源配置模块完成
+2019-11-06 10:59:09.991 | INFO     | __main__:<module>:116 - 用户 18915853059 业务设计模块完成
+2019-11-06 10:59:09.991 | INFO     | __main__:<module>:116 - 用户 18915853059 业务设计模块完成
+2019-11-06 10:59:09.991 | INFO     | __main__:<module>:116 - 用户 18915853059 业务设计模块完成
+2019-11-06 11:05:22.611 | INFO     | __main__:<module>:118 - 用户 18915853059 市场推广模块完成
+2019-11-06 11:05:22.611 | INFO     | __main__:<module>:118 - 用户 18915853059 市场推广模块完成
+2019-11-06 11:05:22.611 | INFO     | __main__:<module>:118 - 用户 18915853059 市场推广模块完成
+2019-11-06 11:09:53.897 | INFO     | __main__:<module>:120 - 用户 18915853059 损益测算模块完成
+2019-11-06 11:09:53.897 | INFO     | __main__:<module>:120 - 用户 18915853059 损益测算模块完成
+2019-11-06 11:09:53.897 | INFO     | __main__:<module>:120 - 用户 18915853059 损益测算模块完成
+2019-11-06 11:12:07.567 | INFO     | before_detection:password_detection:43 - 用户：15251853026, 进行第 1 次密码探测
+2019-11-06 11:12:07.567 | INFO     | before_detection:password_detection:43 - 用户：15251853026, 进行第 1 次密码探测
+2019-11-06 11:12:07.567 | INFO     | before_detection:password_detection:43 - 用户：15251853026, 进行第 1 次密码探测
+2019-11-06 11:12:40.771 | INFO     | before_detection:password_detection:43 - 用户：15251853026, 进行第 2 次密码探测
+2019-11-06 11:12:40.771 | INFO     | before_detection:password_detection:43 - 用户：15251853026, 进行第 2 次密码探测
+2019-11-06 11:12:40.771 | INFO     | before_detection:password_detection:43 - 用户：15251853026, 进行第 2 次密码探测
+2019-11-06 11:13:34.620 | INFO     | before_detection:password_detection:43 - 用户：15251853026, 进行第 3 次密码探测
+2019-11-06 11:13:34.620 | INFO     | before_detection:password_detection:43 - 用户：15251853026, 进行第 3 次密码探测
+2019-11-06 11:13:34.620 | INFO     | before_detection:password_detection:43 - 用户：15251853026, 进行第 3 次密码探测
+2019-11-06 20:17:36.592 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 20:17:36.592 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 20:18:00.584 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 20:18:00.584 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 20:18:00.584 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 20:18:12.576 | INFO     | __main__:<module>:72 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 20:18:12.576 | INFO     | __main__:<module>:72 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 20:18:12.576 | INFO     | __main__:<module>:72 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 20:18:14.377 | ERROR    | __main__:<module>:138 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 20:18:14.377 | ERROR    | __main__:<module>:138 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 20:18:14.377 | ERROR    | __main__:<module>:138 - 用户 18915853059 密码所有可能尝试结束，未成功登陆
+2019-11-06 20:19:17.925 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 20:19:17.925 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 20:19:43.236 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 20:19:43.236 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 20:19:43.236 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 20:24:22.898 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 20:24:22.898 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 20:24:48.318 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 20:24:48.318 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 20:24:48.318 | INFO     | before_detection:password_detection:43 - 用户：18915853059, 进行第 1 次密码探测
+2019-11-06 20:25:22.038 | INFO     | __main__:<module>:72 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 20:25:22.038 | INFO     | __main__:<module>:72 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 20:25:22.038 | INFO     | __main__:<module>:72 - 用户: 18915853059 before_after_test执行完毕, test_code:-1
+2019-11-06 20:26:34.607 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106
+2019-11-06 20:26:34.607 | DEBUG    | Init:Day_init:46 - 重复进行每日初始化: 20191106

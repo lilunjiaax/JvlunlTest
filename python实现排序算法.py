@@ -253,6 +253,9 @@ def BucketSort(a_list, bucket_num=5):
 #     # print(BucketSort(a_list))
 #     print(shellSort(a_list))
 
+a_list = [3, 4, 1, 10, 8, 5, 9, 11, 18, 13, 101]
+print(BucketSort(a_list))
+
 
 
 
